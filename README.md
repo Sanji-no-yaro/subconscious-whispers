@@ -6,9 +6,7 @@
 
 ## 📥 Download
 
-You can download the full book from this repository:
-
-- [Download PDF](./Whispering_Between_Realms.pdf)
+You can download the full book from this repository
 
 ## 🔖 License
 
