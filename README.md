@@ -33,7 +33,7 @@ More books and insights will be added over time. Stay tuned and watch this space
 
 If you're reading this on Instagram or another platform and find it hard to read there, feel free to download the books directly from this repository.
 
-**📥 Download link:** [https://github.com/yourusername/subconscious-whispers](https://github.com/yourusername/subconscious-whispers)
+**📥 Download link:** [github.com/Sanji_no_yaro/subconscious-whispers](https://github.com/Sanji_no_yaro/subconscious-whispers)
 
 For inquiries or permissions, contact the author via **DM on the platform you're reading this on**.
 
