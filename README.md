@@ -1,23 +1,46 @@
-# Whispering Between Realms: A Journey Through Dreams and Self-Discovery
+# 📖 Subconscious Whispers
 
-🧠✨ This is a personal short book that explores the connection between our dreams, subconscious thoughts, and inner dialogue. It’s a raw and honest reflection on fear, growth, and self-awareness—written from real experiences and dreams I've had.
+Welcome to **Subconscious Whispers** — a growing collection of reflective writings and dream-based insights rooted in real, personal experiences. These short books are an attempt to understand the relationship between dreams, consciousness, and our emotional states.
 
-📘 The book is for anyone who’s ever wondered about the meaning behind their dreams or talked to themselves in silence, trying to make sense of their world.
-
-## 📥 Download
-
-You can download the full book from this repository
-
-## 🔖 License
-
-This book is licensed under the [Custom License](./LICENSE), so feel free to share and learn from it — just give proper credit.
-
-## 🤝 Contributing
-
-If this resonates with you or inspires you to share your own dream story or reflections, feel free to fork the repo, share feedback, or message me.
+All content in this repository is created with the intent to help anyone navigating the depths of their own inner world. If you’ve ever found meaning in your dreams, talked to yourself out loud, or just needed a quiet moment of introspection — this space is for you.
 
 ---
 
-📣 _If this project gets good support, more journals and books like this will come soon! Let me know if I should post these from a dedicated account._
+## 🛡️ License
 
-🙏 Thanks for reading and supporting!
+You are free to download, read, and share the books **for personal, educational, and non-commercial purposes**.
+
+> Publishing, distributing, or modifying the content **without proper attribution or permission** is not allowed. Please read the [LICENSE](./LICENSE) file for full details.
+
+---
+
+## 📢 Contributing and Modifications
+
+If you create modified versions of these books:
+- Please include a note inside the book stating what was changed and who made the modifications.
+- Always credit the original author.
+- Share your modifications **under the same conditions**.
+
+---
+
+## 🔮 More Coming Soon
+
+More books and insights will be added over time. Stay tuned and watch this space if you enjoy content that explores dreams, introspection, and healing through storytelling.
+
+---
+
+## 📬 Connect
+
+If you're reading this on Instagram or another platform and find it hard to read there, feel free to download the books directly from this repository.
+
+**📥 Download link:** [https://github.com/yourusername/subconscious-whispers](https://github.com/yourusername/subconscious-whispers)
+
+For inquiries or permissions, contact the author via **DM on the platform you're reading this on**.
+
+---
+
+### 💬 Final Note
+
+This repository is not about fame or fiction. It’s about honest expression, shared freely, in case someone out there needs to hear what the subconscious has to say.
+
+🫂 You're not alone.  
